@@ -1,5 +1,15 @@
 # PhoebusMobileLayouts
 This project contains xaml layouts for Phoebus mobile functions
+
+We also need to create help file for mobile function.
+
+For example help for TrialBalance
+
+  1. Desktop help = https://phoebusfiles.blob.core.windows.net/help/pbs.bo.la.tb.html
+  2. Mobile help = https://phoebusfiles.blob.core.windows.net/help/pbs.bo.la.tb.mobile.html
+
+
+
 ### Ledger Accounting
   1. Trial Balance
   2. Creditor Balance 
